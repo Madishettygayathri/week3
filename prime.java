@@ -1,5 +1,5 @@
 class prime{
-    public static void main(string[]args)
+    public static void main(String[]args)
     {
         int n=23,flag=0;
         for(int i=2;i<=Math.sqrt(n);i++)
